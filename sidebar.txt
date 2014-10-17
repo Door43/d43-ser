@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ser:home|Door43 (ser)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ser|d43-ser repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ser/archive/master.zip|d43-ser.zip]]
+
+**Recent Changes**
+{{changes>ns = ser}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ser|Ethnologue data]]
+
